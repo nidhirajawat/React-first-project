@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-first-project/static/css/main.94a43c1d.css",
+    "main.js": "/React-first-project/static/js/main.1b6dac14.js",
+    "static/media/VID-20210503-WA0012.mp4": "/React-first-project/static/media/VID-20210503-WA0012.b331de07e1e7ef63adb9.mp4",
+    "static/media/moviebg.png": "/React-first-project/static/media/moviebg.f8e1976f8a1a15fdef49.png",
+    "static/media/gu1.jpg": "/React-first-project/static/media/gu1.7e783ba97aec3a4da5c0.jpg",
+    "static/media/user-4.png": "/React-first-project/static/media/user-4.9e614ea397adb56b97a9.png",
+    "static/media/user-3.png": "/React-first-project/static/media/user-3.f34f10516f692cdeb68d.png",
+    "static/media/user-2.png": "/React-first-project/static/media/user-2.3c36b07930f160571dff.png",
+    "static/media/user-5.png": "/React-first-project/static/media/user-5.5500d500207fffa8e1db.png",
+    "static/media/fantasy.jpg": "/React-first-project/static/media/fantasy.0eee26f51e1fd5933b7a.jpg",
+    "static/media/aqu1.jpg": "/React-first-project/static/media/aqu1.3713a9f5fbc3edbbeb19.jpg",
+    "static/media/images1.jpg": "/React-first-project/static/media/images1.bfa0a12bf94e8d8db311.jpg",
+    "index.html": "/React-first-project/index.html",
+    "main.94a43c1d.css.map": "/React-first-project/static/css/main.94a43c1d.css.map",
+    "main.1b6dac14.js.map": "/React-first-project/static/js/main.1b6dac14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94a43c1d.css",
+    "static/js/main.1b6dac14.js"
+  ]
+}
